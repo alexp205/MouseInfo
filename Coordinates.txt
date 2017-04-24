@@ -1,0 +1,6 @@
+X-Coordinate: 
+1034.0
+Y-Coordinate: 
+167.0
+Color(Hex): 
+#e3c161
